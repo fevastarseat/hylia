@@ -1,11 +1,11 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "name": "Kids Bike Seats",
+  "shortDesc": "Reviews about kids bike seats",
   "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@andybelldesign",
-  "authorName": "Andy Bell",
+  "authorEmail": "nicktallents@gmail.com",
+  "authorHandle": "",
+  "authorName": "Nick Tallents",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5
 }
